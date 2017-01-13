@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1484338927 source:c:\users\mihai\desktop\model atestat\atestat1\poriectjpeg\main.cpp
+	<iostream>
+	<string>
+	<ctime>
+
+1435020924 c:\users\mihai\desktop\model atestat\atestat1\poriectjpeg\chessboard.h
+	<iostream>
+
+1435020924 c:\users\mihai\desktop\model atestat\atestat1\poriectjpeg\player.h
+	"ChessBoard.h"
+	<iostream>
+	<string>
+
